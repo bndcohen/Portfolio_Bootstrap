@@ -6,3 +6,17 @@ body {
 .border-3 {
     border-width: 3px !important;
 }
+
+.portfolio-container {
+    position: relative;
+    text-align: center;
+    color:white;
+}
+
+.portfolio-title {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    width: 100%;
+    transform: translate(-50%, -50%);
+}
