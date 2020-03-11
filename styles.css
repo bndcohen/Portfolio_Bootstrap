@@ -1,0 +1,8 @@
+body {
+    background-image: url(img/subtle_grunge.png);
+    background-size: cover;
+}
+
+.border-3 {
+    border-width: 3px !important;
+}
